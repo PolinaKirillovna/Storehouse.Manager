@@ -1,0 +1,15 @@
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/bin/Debug/net6.0/Storehouse.Manager
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/bin/Debug/net6.0/Storehouse.Manager.deps.json
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/bin/Debug/net6.0/Storehouse.Manager.runtimeconfig.json
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/bin/Debug/net6.0/Storehouse.Manager.dll
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/bin/Debug/net6.0/ref/Storehouse.Manager.dll
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/bin/Debug/net6.0/Storehouse.Manager.pdb
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/obj/Debug/net6.0/Storehouse.Manager.csproj.AssemblyReference.cache
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/obj/Debug/net6.0/Storehouse.Manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/obj/Debug/net6.0/Storehouse.Manager.AssemblyInfoInputs.cache
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/obj/Debug/net6.0/Storehouse.Manager.AssemblyInfo.cs
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/obj/Debug/net6.0/Storehouse.Manager.csproj.CoreCompileInputs.cache
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/obj/Debug/net6.0/Storehouse.Manager.dll
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/obj/Debug/net6.0/ref/Storehouse.Manager.dll
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/obj/Debug/net6.0/Storehouse.Manager.pdb
+/Users/thedpk/Monopoly.work/Storehouse.Manager/Storehouse.Manager/obj/Debug/net6.0/Storehouse.Manager.genruntimeconfig.cache

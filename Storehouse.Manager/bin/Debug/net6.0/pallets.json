@@ -1,0 +1,54 @@
+[
+  {
+    "Boxes": [
+      {
+        "ProductionDate": "2023-05-01T00:00:00",
+        "ExpiryDate": "2023-08-09T00:00:00",
+        "Weight": 5,
+        "Volume": 1000,
+        "Id": "1d9eb032-503c-4dc5-8775-3d5b0022a9c1",
+        "Width": 10,
+        "Height": 10,
+        "Depth": 10
+      },
+      {
+        "ProductionDate": "2023-05-10T00:00:00",
+        "ExpiryDate": "2023-08-18T00:00:00",
+        "Weight": 5,
+        "Volume": 1000,
+        "Id": "7f7fac5f-494d-43c8-a931-3ed0558abca6",
+        "Width": 10,
+        "Height": 10,
+        "Depth": 10
+      }
+    ],
+    "Weight": 40,
+    "ExpiryDate": "2023-08-09T00:00:00",
+    "Volume": 252000,
+    "Id": "2b02e523-f580-476b-a4d5-a1aa89051ef1",
+    "Width": 100,
+    "Height": 50,
+    "Depth": 50
+  },
+  {
+    "Boxes": [
+      {
+        "ProductionDate": "2023-05-15T00:00:00",
+        "ExpiryDate": "2023-08-23T00:00:00",
+        "Weight": 5,
+        "Volume": 1000,
+        "Id": "d4116aca-d9b5-4631-9673-b2828eee2a74",
+        "Width": 10,
+        "Height": 10,
+        "Depth": 10
+      }
+    ],
+    "Weight": 35,
+    "ExpiryDate": "2023-08-23T00:00:00",
+    "Volume": 251000,
+    "Id": "b7a07ad6-8e3f-4c9d-a174-03474d713ddb",
+    "Width": 100,
+    "Height": 50,
+    "Depth": 50
+  }
+]
